@@ -2,7 +2,7 @@
 Info 101 stuff
 <html>
     <head>
-        Hello World
+        Go crazy ayyyhh Go stupid Ayyhhh
     </head>
     <body>
         <h1>Hello World</h1>
